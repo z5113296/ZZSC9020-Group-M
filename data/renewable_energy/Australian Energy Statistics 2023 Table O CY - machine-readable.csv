@@ -1,0 +1,833 @@
+Jurisdiction,Year,Fuel,Unit,Quantity
+AUS,2015,Bioenergy,GWh,3677.636
+AUS,2015,Black coal,GWh,111654.64
+AUS,2015,Brown coal,GWh,50547.866
+AUS,2015,Geothermal,GWh,0.426
+AUS,2015,Hydro,GWh,14207.568
+AUS,2015,Large-scale solar PV,GWh,283.51
+AUS,2015,Natural gas,GWh,49705.56
+AUS,2015,Oil products,GWh,6162.17
+AUS,2015,Small-scale solar PV,GWh,5912.014
+AUS,2015,Total,GWh,253984.422
+AUS,2015,Total non-renewable,GWh,218070.235
+AUS,2015,Total renewable,GWh,35914.187
+AUS,2015,Wind,GWh,11833.002
+AUS,2016,Bioenergy,GWh,3627.154
+AUS,2016,Black coal,GWh,115365.652
+AUS,2016,Brown coal,GWh,46990.855
+AUS,2016,Geothermal,GWh,0.358
+AUS,2016,Hydro,GWh,17926.422
+AUS,2016,Large-scale solar PV,GWh,593.913
+AUS,2016,Natural gas,GWh,48110.499
+AUS,2016,Oil products,GWh,5718.235
+AUS,2016,Small-scale solar PV,GWh,6845.862
+AUS,2016,Total,GWh,258218.686
+AUS,2016,Total non-renewable,GWh,216185.241
+AUS,2016,Total renewable,GWh,42033.446
+AUS,2016,Wind,GWh,13039.705
+AUS,2017,Bioenergy,GWh,3561.433
+AUS,2017,Black coal,GWh,120892.005
+AUS,2017,Brown coal,GWh,38276.668
+AUS,2017,Geothermal,GWh,0.251
+AUS,2017,Hydro,GWh,13747.718
+AUS,2017,Large-scale solar PV,GWh,838.93
+AUS,2017,Natural gas,GWh,55087.772
+AUS,2017,Oil products,GWh,5272.836
+AUS,2017,Small-scale solar PV,GWh,8078.627
+AUS,2017,Total,GWh,258967.059
+AUS,2017,Total non-renewable,GWh,219529.281
+AUS,2017,Total renewable,GWh,39437.778
+AUS,2017,Wind,GWh,13210.79
+AUS,2018,Bioenergy,GWh,3588.149
+AUS,2018,Black coal,GWh,120594.135
+AUS,2018,Brown coal,GWh,35961.409
+AUS,2018,Geothermal,GWh,
+AUS,2018,Hydro,GWh,17528.331
+AUS,2018,Large-scale solar PV,GWh,2402.624
+AUS,2018,Natural gas,GWh,51464.722
+AUS,2018,Oil products,GWh,4901.194
+AUS,2018,Small-scale solar PV,GWh,9929.921
+AUS,2018,Total,GWh,262632.469
+AUS,2018,Total non-renewable,GWh,212921.46
+AUS,2018,Total renewable,GWh,49711.009
+AUS,2018,Wind,GWh,16261.954
+AUS,2019,Bioenergy,GWh,3467.726
+AUS,2019,Black coal,GWh,116618.694
+AUS,2019,Brown coal,GWh,33221.917
+AUS,2019,Geothermal,GWh,
+AUS,2019,Hydro,GWh,14385.776
+AUS,2019,Large-scale solar PV,GWh,5964.995
+AUS,2019,Natural gas,GWh,55710.585
+AUS,2019,Oil products,GWh,4727.208
+AUS,2019,Small-scale solar PV,GWh,12331.992
+AUS,2019,Total,GWh,265900.611
+AUS,2019,Total non-renewable,GWh,210278.405
+AUS,2019,Total renewable,GWh,55622.207
+AUS,2019,Wind,GWh,19471.688
+AUS,2020,Bioenergy,GWh,3410.424
+AUS,2020,Black coal,GWh,108740.854
+AUS,2020,Brown coal,GWh,34194.094
+AUS,2020,Geothermal,GWh,
+AUS,2020,Hydro,GWh,14806.551
+AUS,2020,Large-scale solar PV,GWh,8123.379
+AUS,2020,Natural gas,GWh,53124.304
+AUS,2020,Oil products,GWh,4506.367
+AUS,2020,Small-scale solar PV,GWh,15719.282
+AUS,2020,Total,GWh,265232.178
+AUS,2020,Total non-renewable,GWh,200565.619
+AUS,2020,Total renewable,GWh,64666.559
+AUS,2020,Wind,GWh,22606.892
+AUS,2021,Bioenergy,GWh,3256.095
+AUS,2021,Black coal,GWh,103869.514
+AUS,2021,Brown coal,GWh,33478.889
+AUS,2021,Geothermal,GWh,0
+AUS,2021,Hydro,GWh,16469.694
+AUS,2021,Large-scale solar PV,GWh,11037.793
+AUS,2021,Natural gas,GWh,47835.666
+AUS,2021,Oil products,GWh,4673.151
+AUS,2021,Small-scale solar PV,GWh,20223.098
+AUS,2021,Total,GWh,267657.837
+AUS,2021,Total non-renewable,GWh,189857.219
+AUS,2021,Total renewable,GWh,77800.618
+AUS,2021,Wind,GWh,26813.938
+AUS,2022,Bioenergy,GWh,3101.643
+AUS,2022,Black coal,GWh,97540.483
+AUS,2022,Brown coal,GWh,31410.665
+AUS,2022,Geothermal,GWh,0
+AUS,2022,Hydro,GWh,17379.09
+AUS,2022,Large-scale solar PV,GWh,14038.546
+AUS,2022,Natural gas,GWh,51504.94
+AUS,2022,Oil products,GWh,4600.857
+AUS,2022,Small-scale solar PV,GWh,23878.935
+AUS,2022,Total,GWh,273265.061
+AUS,2022,Total non-renewable,GWh,185056.945
+AUS,2022,Total renewable,GWh,88208.116
+AUS,2022,Wind,GWh,29809.901
+NSW,2015,Biomass,GWh,1027.223
+NSW,2015,Black coal,GWh,54528.233
+NSW,2015,Brown coal,GWh,
+NSW,2015,Geothermal,GWh,
+NSW,2015,Hydro,GWh,2145.24
+NSW,2015,Large-scale solar PV,GWh,228.215
+NSW,2015,Natural gas,GWh,4929.714
+NSW,2015,Oil products,GWh,290.437
+NSW,2015,Small-scale solar PV,GWh,1343.755
+NSW,2015,Total,GWh,66214.881
+NSW,2015,Total non-renewable,GWh,59748.384
+NSW,2015,Total renewable,GWh,6466.497
+NSW,2015,Wind,GWh,1722.065
+NSW,2016,Biomass,GWh,1051.008
+NSW,2016,Black coal,GWh,54111.037
+NSW,2016,Brown coal,GWh,
+NSW,2016,Geothermal,GWh,
+NSW,2016,Hydro,GWh,3964.486
+NSW,2016,Large-scale solar PV,GWh,507.282
+NSW,2016,Natural gas,GWh,3538.702
+NSW,2016,Oil products,GWh,311.953
+NSW,2016,Small-scale solar PV,GWh,1577.049
+NSW,2016,Total,GWh,67126.002
+NSW,2016,Total non-renewable,GWh,57961.691
+NSW,2016,Total renewable,GWh,9164.311
+NSW,2016,Wind,GWh,2064.486
+NSW,2017,Biomass,GWh,1134.505
+NSW,2017,Black coal,GWh,57461.861
+NSW,2017,Brown coal,GWh,
+NSW,2017,Geothermal,GWh,
+NSW,2017,Hydro,GWh,2271.424
+NSW,2017,Large-scale solar PV,GWh,633.473
+NSW,2017,Natural gas,GWh,3882.369
+NSW,2017,Oil products,GWh,329.136
+NSW,2017,Small-scale solar PV,GWh,1876.089
+NSW,2017,Total,GWh,69533.777
+NSW,2017,Total non-renewable,GWh,61673.365
+NSW,2017,Total renewable,GWh,7860.412
+NSW,2017,Wind,GWh,1944.92
+NSW,2018,Biomass,GWh,1167.289
+NSW,2018,Black coal,GWh,57245.353
+NSW,2018,Brown coal,GWh,
+NSW,2018,Geothermal,GWh,
+NSW,2018,Hydro,GWh,3150.388
+NSW,2018,Large-scale solar PV,GWh,1073.584
+NSW,2018,Natural gas,GWh,2282.651
+NSW,2018,Oil products,GWh,327.75
+NSW,2018,Small-scale solar PV,GWh,2382.153
+NSW,2018,Total,GWh,70752.345
+NSW,2018,Total non-renewable,GWh,59855.753
+NSW,2018,Total renewable,GWh,10896.592
+NSW,2018,Wind,GWh,3123.177
+NSW,2019,Biomass,GWh,1124.465
+NSW,2019,Black coal,GWh,56546.18
+NSW,2019,Brown coal,GWh,
+NSW,2019,Geothermal,GWh,
+NSW,2019,Hydro,GWh,2010.814
+NSW,2019,Large-scale solar PV,GWh,1731.894
+NSW,2019,Natural gas,GWh,2924.32
+NSW,2019,Oil products,GWh,335.806
+NSW,2019,Small-scale solar PV,GWh,2962.442
+NSW,2019,Total,GWh,72035.964
+NSW,2019,Total non-renewable,GWh,59806.306
+NSW,2019,Total renewable,GWh,12229.658
+NSW,2019,Wind,GWh,4400.043
+NSW,2020,Biomass,GWh,1086.789
+NSW,2020,Black coal,GWh,52454.7
+NSW,2020,Brown coal,GWh,
+NSW,2020,Geothermal,GWh,
+NSW,2020,Hydro,GWh,2399.831
+NSW,2020,Large-scale solar PV,GWh,2603.635
+NSW,2020,Natural gas,GWh,1934.844
+NSW,2020,Oil products,GWh,338.689
+NSW,2020,Small-scale solar PV,GWh,3974.672
+NSW,2020,Total,GWh,69397.826
+NSW,2020,Total non-renewable,GWh,54728.233
+NSW,2020,Total renewable,GWh,14669.593
+NSW,2020,Wind,GWh,4604.666
+NSW,2021,Biomass,GWh,1017.082
+NSW,2021,Black coal,GWh,49094.087
+NSW,2021,Brown coal,GWh,
+NSW,2021,Geothermal,GWh,
+NSW,2021,Hydro,GWh,2952.132
+NSW,2021,Large-scale solar PV,GWh,4156.722
+NSW,2021,Natural gas,GWh,1947.004
+NSW,2021,Oil products,GWh,400.467
+NSW,2021,Small-scale solar PV,GWh,5594.185
+NSW,2021,Total,GWh,70518.777
+NSW,2021,Total non-renewable,GWh,51441.558
+NSW,2021,Total renewable,GWh,19077.219
+NSW,2021,Wind,GWh,5357.099
+NSW,2022,Biomass,GWh,875.973
+NSW,2022,Black coal,GWh,45975.971
+NSW,2022,Brown coal,GWh,
+NSW,2022,Geothermal,GWh,
+NSW,2022,Hydro,GWh,3965.393
+NSW,2022,Large-scale solar PV,GWh,5640.57
+NSW,2022,Natural gas,GWh,3387.845
+NSW,2022,Oil products,GWh,460.842
+NSW,2022,Small-scale solar PV,GWh,6794.399
+NSW,2022,Total,GWh,73239.89
+NSW,2022,Total non-renewable,GWh,49824.658
+NSW,2022,Total renewable,GWh,23415.232
+NSW,2022,Wind,GWh,6138.897
+NT,2015,Biomass,GWh,7.779
+NT,2015,Black coal,GWh,
+NT,2015,Brown coal,GWh,
+NT,2015,Geothermal,GWh,
+NT,2015,Hydro,GWh,
+NT,2015,Large-scale solar PV,GWh,8.851
+NT,2015,Natural gas,GWh,2403.715
+NT,2015,Oil products,GWh,576.315
+NT,2015,Small-scale solar PV,GWh,35.132
+NT,2015,Total,GWh,3031.822
+NT,2015,Total non-renewable,GWh,2980.03
+NT,2015,Total renewable,GWh,51.792
+NT,2015,Wind,GWh,
+NT,2016,Biomass,GWh,8.154
+NT,2016,Black coal,GWh,
+NT,2016,Brown coal,GWh,
+NT,2016,Geothermal,GWh,
+NT,2016,Hydro,GWh,
+NT,2016,Large-scale solar PV,GWh,18.73
+NT,2016,Natural gas,GWh,2423.58
+NT,2016,Oil products,GWh,532.057
+NT,2016,Small-scale solar PV,GWh,51.548
+NT,2016,Total,GWh,3034.099
+NT,2016,Total non-renewable,GWh,2955.638
+NT,2016,Total renewable,GWh,78.462
+NT,2016,Wind,GWh,
+NT,2017,Biomass,GWh,7.107
+NT,2017,Black coal,GWh,
+NT,2017,Brown coal,GWh,
+NT,2017,Geothermal,GWh,
+NT,2017,Hydro,GWh,
+NT,2017,Large-scale solar PV,GWh,27.163
+NT,2017,Natural gas,GWh,2402.125
+NT,2017,Oil products,GWh,742.289
+NT,2017,Small-scale solar PV,GWh,72.554
+NT,2017,Total,GWh,3251.269
+NT,2017,Total non-renewable,GWh,3144.415
+NT,2017,Total renewable,GWh,106.854
+NT,2017,Wind,GWh,
+NT,2018,Biomass,GWh,8.287
+NT,2018,Black coal,GWh,
+NT,2018,Brown coal,GWh,
+NT,2018,Geothermal,GWh,
+NT,2018,Hydro,GWh,
+NT,2018,Large-scale solar PV,GWh,31.198
+NT,2018,Natural gas,GWh,2970.493
+NT,2018,Oil products,GWh,871.077
+NT,2018,Small-scale solar PV,GWh,100.57
+NT,2018,Total,GWh,3981.655
+NT,2018,Total non-renewable,GWh,3841.57
+NT,2018,Total renewable,GWh,140.085
+NT,2018,Wind,GWh,
+NT,2019,Biomass,GWh,8.466
+NT,2019,Black coal,GWh,
+NT,2019,Brown coal,GWh,
+NT,2019,Geothermal,GWh,
+NT,2019,Hydro,GWh,
+NT,2019,Large-scale solar PV,GWh,40.239
+NT,2019,Natural gas,GWh,3894.117
+NT,2019,Oil products,GWh,649.687
+NT,2019,Small-scale solar PV,GWh,138.716
+NT,2019,Total,GWh,4731.256
+NT,2019,Total non-renewable,GWh,4543.805
+NT,2019,Total renewable,GWh,187.451
+NT,2019,Wind,GWh,
+NT,2020,Biomass,GWh,8.361
+NT,2020,Black coal,GWh,
+NT,2020,Brown coal,GWh,
+NT,2020,Geothermal,GWh,
+NT,2020,Hydro,GWh,
+NT,2020,Large-scale solar PV,GWh,38.26
+NT,2020,Natural gas,GWh,4285.007
+NT,2020,Oil products,GWh,504.397
+NT,2020,Small-scale solar PV,GWh,184.469
+NT,2020,Total,GWh,5020.524
+NT,2020,Total non-renewable,GWh,4789.404
+NT,2020,Total renewable,GWh,231.12
+NT,2020,Wind,GWh,
+NT,2021,Biomass,GWh,6.867
+NT,2021,Black coal,GWh,
+NT,2021,Brown coal,GWh,
+NT,2021,Geothermal,GWh,
+NT,2021,Hydro,GWh,0.03
+NT,2021,Large-scale solar PV,GWh,48.453
+NT,2021,Natural gas,GWh,4352.231
+NT,2021,Oil products,GWh,482.206
+NT,2021,Small-scale solar PV,GWh,217.857
+NT,2021,Total,GWh,5107.645
+NT,2021,Total non-renewable,GWh,4834.438
+NT,2021,Total renewable,GWh,273.208
+NT,2021,Wind,GWh,0
+NT,2022,Biomass,GWh,6.67
+NT,2022,Black coal,GWh,
+NT,2022,Brown coal,GWh,
+NT,2022,Geothermal,GWh,
+NT,2022,Hydro,GWh,0.03
+NT,2022,Large-scale solar PV,GWh,43.802
+NT,2022,Natural gas,GWh,4561.489
+NT,2022,Oil products,GWh,461.921
+NT,2022,Small-scale solar PV,GWh,244.445
+NT,2022,Total,GWh,5318.359
+NT,2022,Total non-renewable,GWh,5023.411
+NT,2022,Total renewable,GWh,294.948
+NT,2022,Wind,GWh,0
+QLD,2015,Biomass,GWh,1639.588
+QLD,2015,Black coal,GWh,46368.493
+QLD,2015,Brown coal,GWh,
+QLD,2015,Geothermal,GWh,0.426
+QLD,2015,Hydro,GWh,506.916
+QLD,2015,Large-scale solar PV,GWh,8.038
+QLD,2015,Natural gas,GWh,15770.334
+QLD,2015,Oil products,GWh,1080.259
+QLD,2015,Small-scale solar PV,GWh,1922.697
+QLD,2015,Total,GWh,67327.511
+QLD,2015,Total non-renewable,GWh,63219.086
+QLD,2015,Total renewable,GWh,4108.426
+QLD,2015,Wind,GWh,30.761
+QLD,2016,Biomass,GWh,1540.785
+QLD,2016,Black coal,GWh,49884.198
+QLD,2016,Brown coal,GWh,
+QLD,2016,Geothermal,GWh,0.358
+QLD,2016,Hydro,GWh,543.532
+QLD,2016,Large-scale solar PV,GWh,17.068
+QLD,2016,Natural gas,GWh,12532.949
+QLD,2016,Oil products,GWh,1171.967
+QLD,2016,Small-scale solar PV,GWh,2177.444
+QLD,2016,Total,GWh,67894.91
+QLD,2016,Total non-renewable,GWh,63589.115
+QLD,2016,Total renewable,GWh,4305.796
+QLD,2016,Wind,GWh,26.609
+QLD,2017,Biomass,GWh,1422.24
+QLD,2017,Black coal,GWh,52444.268
+QLD,2017,Brown coal,GWh,
+QLD,2017,Geothermal,GWh,0.251
+QLD,2017,Hydro,GWh,662.118
+QLD,2017,Large-scale solar PV,GWh,85.823
+QLD,2017,Natural gas,GWh,11661.368
+QLD,2017,Oil products,GWh,1164.163
+QLD,2017,Small-scale solar PV,GWh,2525.513
+QLD,2017,Total,GWh,69994.201
+QLD,2017,Total non-renewable,GWh,65269.799
+QLD,2017,Total renewable,GWh,4724.402
+QLD,2017,Wind,GWh,28.457
+QLD,2018,Biomass,GWh,1378.685
+QLD,2018,Black coal,GWh,52946.756
+QLD,2018,Brown coal,GWh,
+QLD,2018,Geothermal,GWh,
+QLD,2018,Hydro,GWh,825.166
+QLD,2018,Large-scale solar PV,GWh,818.575
+QLD,2018,Natural gas,GWh,10416.212
+QLD,2018,Oil products,GWh,1024.087
+QLD,2018,Small-scale solar PV,GWh,3024.098
+QLD,2018,Total,GWh,70574.17
+QLD,2018,Total non-renewable,GWh,64387.054
+QLD,2018,Total renewable,GWh,6187.116
+QLD,2018,Wind,GWh,140.593
+QLD,2019,Biomass,GWh,1269.35
+QLD,2019,Black coal,GWh,50114.071
+QLD,2019,Brown coal,GWh,
+QLD,2019,Geothermal,GWh,
+QLD,2019,Hydro,GWh,1067.682
+QLD,2019,Large-scale solar PV,GWh,2733.39
+QLD,2019,Natural gas,GWh,10564.137
+QLD,2019,Oil products,GWh,1000.841
+QLD,2019,Small-scale solar PV,GWh,3692.471
+QLD,2019,Total,GWh,71066.455
+QLD,2019,Total non-renewable,GWh,61679.049
+QLD,2019,Total renewable,GWh,9387.406
+QLD,2019,Wind,GWh,624.512
+QLD,2020,Biomass,GWh,1218.194
+QLD,2020,Black coal,GWh,47083.864
+QLD,2020,Brown coal,GWh,
+QLD,2020,Geothermal,GWh,
+QLD,2020,Hydro,GWh,650.774
+QLD,2020,Large-scale solar PV,GWh,3395.973
+QLD,2020,Natural gas,GWh,11531.334
+QLD,2020,Oil products,GWh,985.015
+QLD,2020,Small-scale solar PV,GWh,4607.253
+QLD,2020,Total,GWh,70836.942
+QLD,2020,Total non-renewable,GWh,59600.213
+QLD,2020,Total renewable,GWh,11236.729
+QLD,2020,Wind,GWh,1364.535
+QLD,2021,Biomass,GWh,1237.922
+QLD,2021,Black coal,GWh,45199.451
+QLD,2021,Brown coal,GWh,
+QLD,2021,Geothermal,GWh,0
+QLD,2021,Hydro,GWh,1066.13
+QLD,2021,Large-scale solar PV,GWh,3449.111
+QLD,2021,Natural gas,GWh,9685.249
+QLD,2021,Oil products,GWh,1084.264
+QLD,2021,Small-scale solar PV,GWh,5716.917
+QLD,2021,Total,GWh,69200.248
+QLD,2021,Total non-renewable,GWh,55968.964
+QLD,2021,Total renewable,GWh,13231.284
+QLD,2021,Wind,GWh,1761.204
+QLD,2022,Biomass,GWh,1231.257
+QLD,2022,Black coal,GWh,43324.545
+QLD,2022,Brown coal,GWh,
+QLD,2022,Geothermal,GWh,0
+QLD,2022,Hydro,GWh,1214.195
+QLD,2022,Large-scale solar PV,GWh,4438.946
+QLD,2022,Natural gas,GWh,9732.647
+QLD,2022,Oil products,GWh,1042.604
+QLD,2022,Small-scale solar PV,GWh,6687.446
+QLD,2022,Total,GWh,69587.896
+QLD,2022,Total non-renewable,GWh,54099.796
+QLD,2022,Total renewable,GWh,15488.1
+QLD,2022,Wind,GWh,1916.257
+SA,2015,Biomass,GWh,87.015
+SA,2015,Black coal,GWh,
+SA,2015,Brown coal,GWh,2699.85
+SA,2015,Geothermal,GWh,
+SA,2015,Hydro,GWh,8.656
+SA,2015,Large-scale solar PV,GWh,1.773
+SA,2015,Natural gas,GWh,4914.853
+SA,2015,Oil products,GWh,151.757
+SA,2015,Small-scale solar PV,GWh,847.792
+SA,2015,Total,GWh,12928.911
+SA,2015,Total non-renewable,GWh,7766.46
+SA,2015,Total renewable,GWh,5162.451
+SA,2015,Wind,GWh,4217.215
+SA,2016,Biomass,GWh,83.938
+SA,2016,Black coal,GWh,
+SA,2016,Brown coal,GWh,1308.124
+SA,2016,Geothermal,GWh,
+SA,2016,Hydro,GWh,4.972
+SA,2016,Large-scale solar PV,GWh,3.845
+SA,2016,Natural gas,GWh,4950.473
+SA,2016,Oil products,GWh,160.766
+SA,2016,Small-scale solar PV,GWh,941.978
+SA,2016,Total,GWh,12016.302
+SA,2016,Total non-renewable,GWh,6419.363
+SA,2016,Total renewable,GWh,5596.939
+SA,2016,Wind,GWh,4562.206
+SA,2017,Biomass,GWh,80.068
+SA,2017,Black coal,GWh,
+SA,2017,Brown coal,GWh,
+SA,2017,Geothermal,GWh,
+SA,2017,Hydro,GWh,4.907
+SA,2017,Large-scale solar PV,GWh,11.714
+SA,2017,Natural gas,GWh,7660.133
+SA,2017,Oil products,GWh,158.769
+SA,2017,Small-scale solar PV,GWh,1068.798
+SA,2017,Total,GWh,13873.324
+SA,2017,Total non-renewable,GWh,7818.901
+SA,2017,Total renewable,GWh,6054.423
+SA,2017,Wind,GWh,4888.936
+SA,2018,Biomass,GWh,83.369
+SA,2018,Black coal,GWh,
+SA,2018,Brown coal,GWh,
+SA,2018,Geothermal,GWh,
+SA,2018,Hydro,GWh,7.583
+SA,2018,Large-scale solar PV,GWh,161.186
+SA,2018,Natural gas,GWh,6748.735
+SA,2018,Oil products,GWh,153.681
+SA,2018,Small-scale solar PV,GWh,1275.791
+SA,2018,Total,GWh,14134.459
+SA,2018,Total non-renewable,GWh,6902.416
+SA,2018,Total renewable,GWh,7232.043
+SA,2018,Wind,GWh,5704.114
+SA,2019,Biomass,GWh,86.499
+SA,2019,Black coal,GWh,
+SA,2019,Brown coal,GWh,
+SA,2019,Geothermal,GWh,
+SA,2019,Hydro,GWh,9.539
+SA,2019,Large-scale solar PV,GWh,545.059
+SA,2019,Natural gas,GWh,7539.928
+SA,2019,Oil products,GWh,160.152
+SA,2019,Small-scale solar PV,GWh,1548.714
+SA,2019,Total,GWh,15584.254
+SA,2019,Total non-renewable,GWh,7700.08
+SA,2019,Total renewable,GWh,7884.173
+SA,2019,Wind,GWh,5694.361
+SA,2020,Biomass,GWh,103.272
+SA,2020,Black coal,GWh,
+SA,2020,Brown coal,GWh,
+SA,2020,Geothermal,GWh,
+SA,2020,Hydro,GWh,10.269
+SA,2020,Large-scale solar PV,GWh,746.695
+SA,2020,Natural gas,GWh,6056.225
+SA,2020,Oil products,GWh,151.242
+SA,2020,Small-scale solar PV,GWh,1912.699
+SA,2020,Total,GWh,14836.633
+SA,2020,Total non-renewable,GWh,6207.467
+SA,2020,Total renewable,GWh,8629.166
+SA,2020,Wind,GWh,5856.23
+SA,2021,Biomass,GWh,94.53
+SA,2021,Black coal,GWh,
+SA,2021,Brown coal,GWh,
+SA,2021,Geothermal,GWh,
+SA,2021,Hydro,GWh,2.981
+SA,2021,Large-scale solar PV,GWh,928.762
+SA,2021,Natural gas,GWh,4676.016
+SA,2021,Oil products,GWh,173.388
+SA,2021,Small-scale solar PV,GWh,2326.338
+SA,2021,Total,GWh,13935.339
+SA,2021,Total non-renewable,GWh,4849.404
+SA,2021,Total renewable,GWh,9085.935
+SA,2021,Wind,GWh,5733.324
+SA,2022,Biomass,GWh,94.138
+SA,2022,Black coal,GWh,
+SA,2022,Brown coal,GWh,
+SA,2022,Geothermal,GWh,
+SA,2022,Hydro,GWh,2.502
+SA,2022,Large-scale solar PV,GWh,1241.699
+SA,2022,Natural gas,GWh,4109.756
+SA,2022,Oil products,GWh,227.623
+SA,2022,Small-scale solar PV,GWh,2673.059
+SA,2022,Total,GWh,14831.553
+SA,2022,Total non-renewable,GWh,4337.379
+SA,2022,Total renewable,GWh,10494.174
+SA,2022,Wind,GWh,6482.777
+TAS,2015,Biomass,GWh,32.289
+TAS,2015,Black coal,GWh,
+TAS,2015,Brown coal,GWh,
+TAS,2015,Geothermal,GWh,
+TAS,2015,Hydro,GWh,8518.756
+TAS,2015,Large-scale solar PV,GWh,0.13
+TAS,2015,Natural gas,GWh,106.732
+TAS,2015,Oil products,GWh,25.994
+TAS,2015,Small-scale solar PV,GWh,102.592
+TAS,2015,Total,GWh,9787.812
+TAS,2015,Total non-renewable,GWh,132.726
+TAS,2015,Total renewable,GWh,9655.086
+TAS,2015,Wind,GWh,1001.319
+TAS,2016,Biomass,GWh,26.766
+TAS,2016,Black coal,GWh,
+TAS,2016,Brown coal,GWh,
+TAS,2016,Geothermal,GWh,
+TAS,2016,Hydro,GWh,9062.209
+TAS,2016,Large-scale solar PV,GWh,0.296
+TAS,2016,Natural gas,GWh,853.809
+TAS,2016,Oil products,GWh,210.797
+TAS,2016,Small-scale solar PV,GWh,115.127
+TAS,2016,Total,GWh,11400.326
+TAS,2016,Total non-renewable,GWh,1064.606
+TAS,2016,Total renewable,GWh,10335.721
+TAS,2016,Wind,GWh,1131.323
+TAS,2017,Biomass,GWh,24.593
+TAS,2017,Black coal,GWh,
+TAS,2017,Brown coal,GWh,
+TAS,2017,Geothermal,GWh,
+TAS,2017,Hydro,GWh,8059.097
+TAS,2017,Large-scale solar PV,GWh,0.517
+TAS,2017,Natural gas,GWh,1326.491
+TAS,2017,Oil products,GWh,157.982
+TAS,2017,Small-scale solar PV,GWh,130.338
+TAS,2017,Total,GWh,10755.021
+TAS,2017,Total non-renewable,GWh,1484.472
+TAS,2017,Total renewable,GWh,9270.549
+TAS,2017,Wind,GWh,1056.004
+TAS,2018,Biomass,GWh,23.252
+TAS,2018,Black coal,GWh,
+TAS,2018,Brown coal,GWh,
+TAS,2018,Geothermal,GWh,
+TAS,2018,Hydro,GWh,10353.716
+TAS,2018,Large-scale solar PV,GWh,1.591
+TAS,2018,Natural gas,GWh,634.115
+TAS,2018,Oil products,GWh,21.775
+TAS,2018,Small-scale solar PV,GWh,150.668
+TAS,2018,Total,GWh,12287.745
+TAS,2018,Total non-renewable,GWh,655.89
+TAS,2018,Total renewable,GWh,11631.855
+TAS,2018,Wind,GWh,1102.629
+TAS,2019,Biomass,GWh,29.826
+TAS,2019,Black coal,GWh,
+TAS,2019,Brown coal,GWh,
+TAS,2019,Geothermal,GWh,
+TAS,2019,Hydro,GWh,8801.637
+TAS,2019,Large-scale solar PV,GWh,3.01
+TAS,2019,Natural gas,GWh,589.666
+TAS,2019,Oil products,GWh,19.97
+TAS,2019,Small-scale solar PV,GWh,173.272
+TAS,2019,Total,GWh,10832.486
+TAS,2019,Total non-renewable,GWh,609.635
+TAS,2019,Total renewable,GWh,10222.851
+TAS,2019,Wind,GWh,1215.106
+TAS,2020,Biomass,GWh,29.669
+TAS,2020,Black coal,GWh,
+TAS,2020,Brown coal,GWh,
+TAS,2020,Geothermal,GWh,
+TAS,2020,Hydro,GWh,9066.636
+TAS,2020,Large-scale solar PV,GWh,2.498
+TAS,2020,Natural gas,GWh,185.983
+TAS,2020,Oil products,GWh,20.682
+TAS,2020,Small-scale solar PV,GWh,202.259
+TAS,2020,Total,GWh,11041.273
+TAS,2020,Total non-renewable,GWh,206.665
+TAS,2020,Total renewable,GWh,10834.608
+TAS,2020,Wind,GWh,1533.545
+TAS,2021,Biomass,GWh,30.484
+TAS,2021,Black coal,GWh,
+TAS,2021,Brown coal,GWh,
+TAS,2021,Geothermal,GWh,
+TAS,2021,Hydro,GWh,9421.303
+TAS,2021,Large-scale solar PV,GWh,3.135
+TAS,2021,Natural gas,GWh,128.511
+TAS,2021,Oil products,GWh,15.256
+TAS,2021,Small-scale solar PV,GWh,237.079
+TAS,2021,Total,GWh,11697.437
+TAS,2021,Total non-renewable,GWh,143.766
+TAS,2021,Total renewable,GWh,11553.67
+TAS,2021,Wind,GWh,1861.67
+TAS,2022,Biomass,GWh,31.637
+TAS,2022,Black coal,GWh,
+TAS,2022,Brown coal,GWh,
+TAS,2022,Geothermal,GWh,
+TAS,2022,Hydro,GWh,8769.713
+TAS,2022,Large-scale solar PV,GWh,2.839
+TAS,2022,Natural gas,GWh,212.606
+TAS,2022,Oil products,GWh,10.676
+TAS,2022,Small-scale solar PV,GWh,273.822
+TAS,2022,Total,GWh,10945.541
+TAS,2022,Total non-renewable,GWh,223.282
+TAS,2022,Total renewable,GWh,10722.259
+TAS,2022,Wind,GWh,1644.248
+VIC,2015,Biomass,GWh,736.164
+VIC,2015,Black coal,GWh,
+VIC,2015,Brown coal,GWh,47848.016
+VIC,2015,Geothermal,GWh,
+VIC,2015,Hydro,GWh,2816.089
+VIC,2015,Large-scale solar PV,GWh,11.941
+VIC,2015,Natural gas,GWh,1735.869
+VIC,2015,Oil products,GWh,128.606
+VIC,2015,Small-scale solar PV,GWh,970.048
+VIC,2015,Total,GWh,57535.23
+VIC,2015,Total non-renewable,GWh,49712.491
+VIC,2015,Total renewable,GWh,7822.739
+VIC,2015,Wind,GWh,3288.498
+VIC,2016,Biomass,GWh,735.715
+VIC,2016,Black coal,GWh,
+VIC,2016,Brown coal,GWh,45682.731
+VIC,2016,Geothermal,GWh,
+VIC,2016,Hydro,GWh,4132.359
+VIC,2016,Large-scale solar PV,GWh,13.578
+VIC,2016,Natural gas,GWh,1688.263
+VIC,2016,Oil products,GWh,140.646
+VIC,2016,Small-scale solar PV,GWh,1140.794
+VIC,2016,Total,GWh,57237.241
+VIC,2016,Total non-renewable,GWh,47511.64
+VIC,2016,Total renewable,GWh,9725.601
+VIC,2016,Wind,GWh,3703.155
+VIC,2017,Biomass,GWh,723.163
+VIC,2017,Black coal,GWh,
+VIC,2017,Brown coal,GWh,38276.668
+VIC,2017,Geothermal,GWh,
+VIC,2017,Hydro,GWh,2532.299
+VIC,2017,Large-scale solar PV,GWh,19.808
+VIC,2017,Natural gas,GWh,4150.679
+VIC,2017,Oil products,GWh,171.048
+VIC,2017,Small-scale solar PV,GWh,1343.103
+VIC,2017,Total,GWh,50965.114
+VIC,2017,Total non-renewable,GWh,42598.394
+VIC,2017,Total renewable,GWh,8366.72
+VIC,2017,Wind,GWh,3748.346
+VIC,2018,Biomass,GWh,776.655
+VIC,2018,Black coal,GWh,
+VIC,2018,Brown coal,GWh,35961.409
+VIC,2018,Geothermal,GWh,
+VIC,2018,Hydro,GWh,2974.361
+VIC,2018,Large-scale solar PV,GWh,198.914
+VIC,2018,Natural gas,GWh,2937.781
+VIC,2018,Oil products,GWh,187.48
+VIC,2018,Small-scale solar PV,GWh,1659.084
+VIC,2018,Total,GWh,49312.457
+VIC,2018,Total non-renewable,GWh,39086.67
+VIC,2018,Total renewable,GWh,10225.787
+VIC,2018,Wind,GWh,4616.773
+VIC,2019,Biomass,GWh,819.305
+VIC,2019,Black coal,GWh,
+VIC,2019,Brown coal,GWh,33221.917
+VIC,2019,Geothermal,GWh,
+VIC,2019,Hydro,GWh,2280.845
+VIC,2019,Large-scale solar PV,GWh,771.357
+VIC,2019,Natural gas,GWh,3889.51
+VIC,2019,Oil products,GWh,201.997
+VIC,2019,Small-scale solar PV,GWh,2167.088
+VIC,2019,Total,GWh,48783.187
+VIC,2019,Total non-renewable,GWh,37313.424
+VIC,2019,Total renewable,GWh,11469.763
+VIC,2019,Wind,GWh,5431.169
+VIC,2020,Biomass,GWh,846.316
+VIC,2020,Black coal,GWh,
+VIC,2020,Brown coal,GWh,34194.094
+VIC,2020,Geothermal,GWh,
+VIC,2020,Hydro,GWh,2488.68
+VIC,2020,Large-scale solar PV,GWh,1022.438
+VIC,2020,Natural gas,GWh,2258.651
+VIC,2020,Oil products,GWh,200.727
+VIC,2020,Small-scale solar PV,GWh,2786.414
+VIC,2020,Total,GWh,50530.803
+VIC,2020,Total non-renewable,GWh,36653.472
+VIC,2020,Total renewable,GWh,13877.331
+VIC,2020,Wind,GWh,6733.484
+VIC,2021,Biomass,GWh,755.558
+VIC,2021,Black coal,GWh,
+VIC,2021,Brown coal,GWh,33478.889
+VIC,2021,Geothermal,GWh,0
+VIC,2021,Hydro,GWh,2924.895
+VIC,2021,Large-scale solar PV,GWh,1824.572
+VIC,2021,Natural gas,GWh,1619.344
+VIC,2021,Oil products,GWh,190.158
+VIC,2021,Small-scale solar PV,GWh,3587.634
+VIC,2021,Total,GWh,53059.863
+VIC,2021,Total non-renewable,GWh,35288.39
+VIC,2021,Total renewable,GWh,17771.473
+VIC,2021,Wind,GWh,8678.813
+VIC,2022,Biomass,GWh,747.722
+VIC,2022,Black coal,GWh,
+VIC,2022,Brown coal,GWh,31410.665
+VIC,2022,Geothermal,GWh,0
+VIC,2022,Hydro,GWh,3350.779
+VIC,2022,Large-scale solar PV,GWh,1876.873
+VIC,2022,Natural gas,GWh,2596.867
+VIC,2022,Oil products,GWh,201.602
+VIC,2022,Small-scale solar PV,GWh,4246.171
+VIC,2022,Total,GWh,54532.101
+VIC,2022,Total non-renewable,GWh,34209.134
+VIC,2022,Total renewable,GWh,20322.967
+VIC,2022,Wind,GWh,10101.422
+WA,2015,Biomass,GWh,147.579
+WA,2015,Black coal,GWh,10757.914
+WA,2015,Brown coal,GWh,
+WA,2015,Geothermal,GWh,
+WA,2015,Hydro,GWh,211.912
+WA,2015,Large-scale solar PV,GWh,24.562
+WA,2015,Natural gas,GWh,19844.343
+WA,2015,Oil products,GWh,3908.801
+WA,2015,Small-scale solar PV,GWh,689.999
+WA,2015,Total,GWh,37158.254
+WA,2015,Total non-renewable,GWh,34511.059
+WA,2015,Total renewable,GWh,2647.196
+WA,2015,Wind,GWh,1573.144
+WA,2016,Biomass,GWh,180.788
+WA,2016,Black coal,GWh,11370.417
+WA,2016,Brown coal,GWh,
+WA,2016,Geothermal,GWh,
+WA,2016,Hydro,GWh,218.864
+WA,2016,Large-scale solar PV,GWh,33.115
+WA,2016,Natural gas,GWh,22122.722
+WA,2016,Oil products,GWh,3190.049
+WA,2016,Small-scale solar PV,GWh,841.924
+WA,2016,Total,GWh,39509.805
+WA,2016,Total non-renewable,GWh,36683.188
+WA,2016,Total renewable,GWh,2826.617
+WA,2016,Wind,GWh,1551.927
+WA,2017,Biomass,GWh,169.757
+WA,2017,Black coal,GWh,10985.877
+WA,2017,Brown coal,GWh,
+WA,2017,Geothermal,GWh,
+WA,2017,Hydro,GWh,217.873
+WA,2017,Large-scale solar PV,GWh,60.431
+WA,2017,Natural gas,GWh,24004.608
+WA,2017,Oil products,GWh,2549.45
+WA,2017,Small-scale solar PV,GWh,1062.232
+WA,2017,Total,GWh,40594.353
+WA,2017,Total non-renewable,GWh,37539.934
+WA,2017,Total renewable,GWh,3054.419
+WA,2017,Wind,GWh,1544.127
+WA,2018,Biomass,GWh,150.612
+WA,2018,Black coal,GWh,10402.027
+WA,2018,Brown coal,GWh,
+WA,2018,Geothermal,GWh,
+WA,2018,Hydro,GWh,217.117
+WA,2018,Large-scale solar PV,GWh,117.576
+WA,2018,Natural gas,GWh,25474.736
+WA,2018,Oil products,GWh,2315.345
+WA,2018,Small-scale solar PV,GWh,1337.558
+WA,2018,Total,GWh,41589.638
+WA,2018,Total non-renewable,GWh,38192.108
+WA,2018,Total renewable,GWh,3397.531
+WA,2018,Wind,GWh,1574.668
+WA,2019,Biomass,GWh,129.815
+WA,2019,Black coal,GWh,9958.443
+WA,2019,Brown coal,GWh,
+WA,2019,Geothermal,GWh,
+WA,2019,Hydro,GWh,215.259
+WA,2019,Large-scale solar PV,GWh,140.045
+WA,2019,Natural gas,GWh,26308.907
+WA,2019,Oil products,GWh,2358.755
+WA,2019,Small-scale solar PV,GWh,1649.288
+WA,2019,Total,GWh,42867.011
+WA,2019,Total non-renewable,GWh,38626.106
+WA,2019,Total renewable,GWh,4240.905
+WA,2019,Wind,GWh,2106.498
+WA,2020,Biomass,GWh,117.823
+WA,2020,Black coal,GWh,9202.291
+WA,2020,Brown coal,GWh,
+WA,2020,Geothermal,GWh,
+WA,2020,Hydro,GWh,190.36
+WA,2020,Large-scale solar PV,GWh,313.88
+WA,2020,Natural gas,GWh,26872.261
+WA,2020,Oil products,GWh,2305.614
+WA,2020,Small-scale solar PV,GWh,2051.517
+WA,2020,Total,GWh,43568.178
+WA,2020,Total non-renewable,GWh,38380.166
+WA,2020,Total renewable,GWh,5188.012
+WA,2020,Wind,GWh,2514.432
+WA,2021,Biomass,GWh,113.652
+WA,2021,Black coal,GWh,9575.976
+WA,2021,Brown coal,GWh,
+WA,2021,Geothermal,GWh,
+WA,2021,Hydro,GWh,102.222
+WA,2021,Large-scale solar PV,GWh,627.037
+WA,2021,Natural gas,GWh,25427.312
+WA,2021,Oil products,GWh,2327.411
+WA,2021,Small-scale solar PV,GWh,2543.088
+WA,2021,Total,GWh,44138.529
+WA,2021,Total non-renewable,GWh,37330.699
+WA,2021,Total renewable,GWh,6807.829
+WA,2021,Wind,GWh,3421.83
+WA,2022,Biomass,GWh,114.245
+WA,2022,Black coal,GWh,8239.967
+WA,2022,Brown coal,GWh,
+WA,2022,Geothermal,GWh,
+WA,2022,Hydro,GWh,76.479
+WA,2022,Large-scale solar PV,GWh,793.818
+WA,2022,Natural gas,GWh,26903.731
+WA,2022,Oil products,GWh,2195.588
+WA,2022,Small-scale solar PV,GWh,2959.594
+WA,2022,Total,GWh,44809.72
+WA,2022,Total non-renewable,GWh,37339.285
+WA,2022,Total renewable,GWh,7470.435
+WA,2022,Wind,GWh,3526.3

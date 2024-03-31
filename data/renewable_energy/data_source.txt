@@ -1,0 +1,3 @@
+Data source: https://www.energy.gov.au/publications/australian-energy-update-2023
+
+Machine readable files: https://www.energy.gov.au/publications/australian-energy-statistics-2023-machine-readable-files
