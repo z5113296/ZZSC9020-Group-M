@@ -15,7 +15,7 @@ Complete the information below regarding your group.
 
 ### Brief project description
 
-Describe your project in one paragraph.
+Identifying the most accurate model and it’s optimal set of feature to forecast Australia’s energy demand patterns over the next 5 years.
 
 ## Repository structure
 
@@ -28,3 +28,8 @@ The repository has the following folder structure:
 - minutes: minutes for each meeting (left not more than 24h after the corresponding meeting)
 - report: RMarkdown or Jupyter notebook report in progress
 - src: source code
+
+## Notebooks
+
+The final models used in the report are in Modelling-GradBoost-XGBoost.ipynb.
+The feature forecasting and final model testing is in Modelling_Final.ipynb.
